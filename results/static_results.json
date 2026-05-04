@@ -1,0 +1,22 @@
+{
+  "total_throughput_mbps": 0.523912,
+  "avg_latency_ms": 3.51434,
+  "packet_loss_pct": 0.0284252,
+  "jain_fairness_index": 0.980359,
+  "total_energy_j": 0.0,
+  "bs_loads_mbps": [
+    0.15701,
+    0.209594,
+    0.157308
+  ],
+  "tx_packets": 3518,
+  "rx_packets": 3517,
+  "flow_count": 10,
+  "xml_avg_latency_ms": 3.5143,
+  "xml_total_throughput_mbps": 0.5239,
+  "xml_avg_loss_pct": 0.0282,
+  "xml_tx_total": 3518,
+  "xml_rx_total": 3517,
+  "xml_flow_count": 10,
+  "method": "Static"
+}

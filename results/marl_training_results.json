@@ -1,0 +1,402 @@
+[
+  {
+    "episode": 1,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.9
+  },
+  {
+    "episode": 2,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.81
+  },
+  {
+    "episode": 3,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.729
+  },
+  {
+    "episode": 4,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.6561
+  },
+  {
+    "episode": 5,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.5905
+  },
+  {
+    "episode": 6,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.5315
+  },
+  {
+    "episode": 7,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.4783
+  },
+  {
+    "episode": 8,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.4305
+  },
+  {
+    "episode": 9,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.3875
+  },
+  {
+    "episode": 10,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.3488
+  },
+  {
+    "episode": 11,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.3139
+  },
+  {
+    "episode": 12,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.2825
+  },
+  {
+    "episode": 13,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.2542
+  },
+  {
+    "episode": 14,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.2288
+  },
+  {
+    "episode": 15,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.2059
+  },
+  {
+    "episode": 16,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.1853
+  },
+  {
+    "episode": 17,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.1668
+  },
+  {
+    "episode": 18,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.1501
+  },
+  {
+    "episode": 19,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.1351
+  },
+  {
+    "episode": 20,
+    "actions": [
+      1,
+      0,
+      1
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.514,
+    "total_throughput_mbps": 0.5239,
+    "packet_loss_pct": 0.0284,
+    "jain_fairness_index": 0.9804,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "epsilon": 0.1216
+  }
+]

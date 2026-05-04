@@ -1,0 +1,45 @@
+[
+  {
+    "episode": 1,
+    "actions": [
+      0,
+      0,
+      0
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.51393,
+    "total_throughput_mbps": 0.523912,
+    "packet_loss_pct": 0.0284252,
+    "jain_fairness_index": 0.980359,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.7491149555807896,
+      1.0,
+      0.7505367520062597
+    ],
+    "epsilon": 0.9
+  },
+  {
+    "episode": 2,
+    "actions": [
+      1,
+      0,
+      0
+    ],
+    "avg_reward": 0.9747,
+    "avg_latency_ms": 3.51393,
+    "total_throughput_mbps": 0.523912,
+    "packet_loss_pct": 0.0284252,
+    "jain_fairness_index": 0.980359,
+    "total_energy_j": 0.0,
+    "bs_loads_normalized": [
+      0.7491149555807896,
+      1.0,
+      0.7505367520062597
+    ],
+    "epsilon": 0.81
+  },
+  {
+    "episode": 3,
+    "actions": [
+      

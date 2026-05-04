@@ -1,0 +1,112 @@
+[
+  {
+    "total_throughput_mbps": 0.262838,
+    "avg_latency_ms": 3.53001,
+    "packet_loss_pct": 0.0,
+    "jain_fairness_index": 0.925747,
+    "total_energy_j": 0.0,
+    "bs_loads_mbps": [
+      0.0525221,
+      0.105272,
+      0.105044
+    ],
+    "tx_packets": 1156,
+    "rx_packets": 1156,
+    "flow_count": 5,
+    "xml_avg_latency_ms": 3.53,
+    "xml_total_throughput_mbps": 0.1722,
+    "xml_avg_loss_pct": 0.0,
+    "xml_tx_total": 1156,
+    "xml_rx_total": 1156,
+    "xml_flow_count": 5,
+    "num_iot": 5
+  },
+  {
+    "total_throughput_mbps": 0.522265,
+    "avg_latency_ms": 3.52677,
+    "packet_loss_pct": 0.0,
+    "jain_fairness_index": 0.980341,
+    "total_energy_j": 0.0,
+    "bs_loads_mbps": [
+      0.156429,
+      0.208952,
+      0.156884
+    ],
+    "tx_packets": 2297,
+    "rx_packets": 2297,
+    "flow_count": 10,
+    "xml_avg_latency_ms": 3.5268,
+    "xml_total_throughput_mbps": 0.3422,
+    "xml_avg_loss_pct": 0.0,
+    "xml_tx_total": 2297,
+    "xml_rx_total": 2297,
+    "xml_flow_count": 10,
+    "num_iot": 10
+  },
+  {
+    "total_throughput_mbps": 0.778055,
+    "avg_latency_ms": 3.52347,
+    "packet_loss_pct": 0.0,
+    "jain_fairness_index": 0.999995,
+    "total_energy_j": 0.0,
+    "bs_loads_mbps": [
+      0.258745,
+      0.260109,
+      0.2592
+    ],
+    "tx_packets": 3422,
+    "rx_packets": 3422,
+    "flow_count": 15,
+    "xml_avg_latency_ms": 3.5235,
+    "xml_total_throughput_mbps": 0.5098,
+    "xml_avg_loss_pct": 0.0,
+    "xml_tx_total": 3422,
+    "xml_rx_total": 3422,
+    "xml_flow_count": 15,
+    "num_iot": 15
+  },
+  {
+    "total_throughput_mbps": 1.03043,
+    "avg_latency_ms": 3.57535,
+    "packet_loss_pct": 0.0,
+    "jain_fairness_index": 0.99505,
+    "total_energy_j": 0.0,
+    "bs_loads_mbps": [
+      0.309221,
+      0.361061,
+      0.360152
+    ],
+    "tx_packets": 4532,
+    "rx_packets": 4532,
+    "flow_count": 20,
+    "xml_avg_latency_ms": 3.5753,
+    "xml_total_throughput_mbps": 0.6751,
+    "xml_avg_loss_pct": 0.0,
+    "xml_tx_total": 4532,
+    "xml_rx_total": 4532,
+    "xml_flow_count": 20,
+    "num_iot": 20
+  },
+  {
+    "total_throughput_mbps": 1.52496,
+    "avg_latency_ms": 3.73056,
+    "packet_loss_pct": 0.0,
+    "jain_fairness_index": 0.999995,
+    "total_energy_j": 0.0,
+    "bs_loads_mbps": [
+      0.507032,
+      0.50976,
+      0.508168
+    ],
+    "tx_packets": 6707,
+    "rx_packets": 6707,
+    "flow_count": 30,
+    "xml_avg_latency_ms": 3.7306,
+    "xml_total_throughput_mbps": 0.9991,
+    "xml_avg_loss_pct": 0.0,
+    "xml_tx_total": 6707,
+    "xml_rx_total": 6707,
+    "xml_flow_count": 30,
+    "num_iot": 30
+  }
+]

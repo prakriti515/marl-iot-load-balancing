@@ -11,7 +11,7 @@ Fault-Tolerant and Energy-Efficient Load Balancing in Decentralized IoT Networks
 ## Researcher
 - **Name:** Prakriti Shrestha
 - **Institution:** National College of Engineering, Tribhuvan University
-- **Grant:** NCE Research Grant 2025 — Proposal #10
+- **Grant:** NCE Research Grant 2025
 - **GitHub:** https://github.com/prakriti515
 
 ## Project Structure
